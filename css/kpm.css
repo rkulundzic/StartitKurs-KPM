@@ -1,0 +1,33 @@
+body{
+	font-family: 'Raleway Dots', cursive;
+	text-align: center;
+	background: #292929;
+	color: #fff;
+}
+
+h1{
+	margin-bottom: 80px;
+	margin-top: 30px;
+}
+
+h2{
+	/*width: 100%;*/
+	/*background: #aeaeae;*/
+	/*padding: 20px;*/
+	/*margin: 0;*/
+}
+
+#pravila{
+	margin-top: 0;
+}
+
+p{
+	font-size: 17px;
+	padding: 5px;
+}
+
+img{
+	margin-top: 40px;
+	max-width: 40%;
+	height: auto;
+}
